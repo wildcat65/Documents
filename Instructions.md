@@ -39,6 +39,14 @@ The BIOS entries need to be changed and due to the versions moving things around
 
 ## Installation
 
+{{< note >}}
+These steps can be completed several times if necessary.
+{{< /note >}}
+
+{{< caution >}}
+You will be erasing a disk and all its contents during these steps.
+{{< /caution>}}
+
 This becomes a little hit and miss due to specifics of each machine appearing in different places
 
 First part if to switch machine on and keep pressing F12 until you see the boot select menu. Select the SanDisk EFI partition.
