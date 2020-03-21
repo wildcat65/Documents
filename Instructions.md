@@ -27,3 +27,6 @@ First part if to switch machine on and keep pressing F12 until you see the boot 
 This will boot and the screen will have text streaming past for a few minutes. It should end with and Apple logo and progress bar followed by the installation dialogue boxes.
 
 Follow the normal process of erasing the install disk using disk utility and then quiting disk utility and installing the OS.
+This should go fine and don't worry too much about reboots, they will happen when needed and even a crash on Apple kit is normal.
+
+After the first reboot you will see a simple text based menu with a number of options. 
