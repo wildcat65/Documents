@@ -1,3 +1,21 @@
+---
+author:
+  name: Alan Greenwell
+  email: alan@ghostdogs.co.uk
+description: 'Hackintosh Build using OpenCore 0.5.6 on Gigabyte Z370'
+keywords: ["Mac", "OpenCore", "Gigabyte", "Instructions"]
+license: '[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)'
+published: 2020-March
+modified_by:
+  name: Alan Greenwell
+title: 'Hackintosh Build OpenCore 0.5.6'
+contributor:
+  name: Alan Greenwell
+  link: 
+external_resources:
+  - '[website](https://ghostdogs.co.uk)'
+---
+
 # Opencore 0.5.6 on Gigabyte Z390 Motherboards
 
 ## Build Bootable Drive
